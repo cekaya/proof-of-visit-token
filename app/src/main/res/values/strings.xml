@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProofOfVisitToken</string>
+    <string name="headline">Crypto Dogs</string>
+    <string name="addLocationExplain">Please fill out the form and press confirm.</string>
+</resources>
